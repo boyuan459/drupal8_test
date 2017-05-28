@@ -1,3 +1,10 @@
+# How to Run this test
+1. the admin username/password is: admin/admin
+
+2. create a database with name d8 and import the sql dump d8.sql in database directory
+
+3. setup the database username and password in the web/sites/default/settings.local.php
+
 # Composer template for Drupal projects
 
 [![Build Status](https://travis-ci.org/drupal-composer/drupal-project.svg?branch=8.x)](https://travis-ci.org/drupal-composer/drupal-project)
