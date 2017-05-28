@@ -5,6 +5,8 @@
 
 3. setup the database username and password in the web/sites/default/settings.local.php
 
+4. run composer install in the drupal root directory
+
 # Composer template for Drupal projects
 
 [![Build Status](https://travis-ci.org/drupal-composer/drupal-project.svg?branch=8.x)](https://travis-ci.org/drupal-composer/drupal-project)
