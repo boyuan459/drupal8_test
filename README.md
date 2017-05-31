@@ -7,6 +7,12 @@
 
 4. run composer install in the drupal root directory
 
+5. all the menus and navigation are under the web/themes/custom/test/templates
+
+!!! finish test here, no need to read further more about drupal 8
+
+####################################################
+
 # Composer template for Drupal projects
 
 [![Build Status](https://travis-ci.org/drupal-composer/drupal-project.svg?branch=8.x)](https://travis-ci.org/drupal-composer/drupal-project)
